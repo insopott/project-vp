@@ -1,0 +1,20 @@
+/*body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+.flax{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}*/
+.box {
+  border:solid 0.5px;
+  width: 100px;
+  height: 100px
+}
